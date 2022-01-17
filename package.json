@@ -1,0 +1,14 @@
+{
+  "name": "nodephaser021022",
+  "version": "1.0.0",
+  "description": "Phaser test with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Snehal Sangmuly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
